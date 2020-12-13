@@ -7,3 +7,5 @@ This title was done in the commmand line on my computer
 ## In the Third branch
 This edit was made after two edits in the same file after branching from the main branch
 
+### This change was made in another branch 
+After deleting the previous demo branch
