@@ -5,7 +5,8 @@
 
 namespace fs = std::filesystem;
 
-int main()
+int 
+main()
 {
     std::string filePath = "./";
     for (const auto & entry : fs::directory_iterator(filePath))
